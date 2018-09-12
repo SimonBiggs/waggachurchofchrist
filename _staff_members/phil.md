@@ -3,7 +3,6 @@ title: Phil
 position: 0
 name: Phil Briggs
 image_path: https://138565-501757-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/bb-plugin/cache/phil-briggs-2016-e1472733631587-circle.jpg
-twitter_username: 
 blurb: Preoccupied with knowing the true and living God in Jesus Christ.
 ---
 
