@@ -3,7 +3,7 @@ title: Wagga Church of Christ
 timezone: Australia/Sydney
 collections:
   posts:
-    title: Posts
+    title: Pastor's Blog
     output: true
   staff_members:
     title: Staff Members
